@@ -1,0 +1,151 @@
+*{
+   margin: 0px;
+   padding: 0px;
+   text-transform: capitalize;
+}
+.home-course .box{
+ /* border: 1px solid black; */
+  background-color: white;
+ 
+}
+.home-course{
+    position: relative;
+    top: -24px;
+    z-index: 2;
+    
+    
+}
+.box h5{
+    font-weight: 700;
+}
+.box p{
+    color: grey;
+    font-weight:500;
+}
+.btn{
+    text-transform: capitalize;
+    font-size: 17px;
+}
+.services{
+    background-color: #f2f5fa;
+   
+}
+.part{
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+}
+.breif{
+    margin-top: 100px;
+}
+.part i{
+    font-size: 47px;
+   
+}
+.projects{
+    border-radius: 5px;
+    background-color: white;
+}
+.facilites{
+    background-color: #f0f0f0;
+    margin-top: 180px;
+}
+.projects i{
+    font-size: 54px;
+}
+.accordion-item button{
+    font-weight: bold;
+}
+.accordion-item button:hover{
+  background-color: rgb(82, 169, 251);
+  color: white;
+}
+.accordion-body p{
+    color: rgb(95, 95, 95);
+    font-weight: 500;
+}
+.forms form input{
+  height: 53px;
+}
+.format{
+    background-color: rgb(240, 240, 240);
+    margin-top: 150px;
+}
+.format .col-md-5 {
+    background-color: white;
+}
+.imgs{
+    border: 3px  blue solid ;
+}
+.cards{
+    background-color: rgb(216, 236, 244);
+    border-radius: 13px;
+}
+.cards-2{
+    background-color: rgb(243, 224, 242);
+    border-radius: 13px;
+}
+.cards-3{
+    background-color: rgb(23, 54, 123);
+    border-radius: 13px;
+}
+.cards-3 h4{
+    color: white;
+}
+.cards-4{
+    background-color: rgb(205, 245, 227);
+    border-radius: 13px;
+}
+.courses{
+    margin-top: 180px;
+}
+.contacts{
+    background-color: rgb(21, 88, 176);
+}
+.contacts h6{
+    color: white;
+}
+.contacts h5 ,h3{
+    color: white;
+}
+.contacts i{
+    font-size: 40px;
+    color: rgb(21, 88, 176); ;
+}
+.icons{
+    width: 64px;
+    background-color: white;
+    border-radius: 30px;
+    text-align: center;
+    align-items: center;
+}
+.contacts .btn{
+    height: 57px;
+    width: 150px;
+    color: white;
+    font-weight: 600;
+}
+.testimonial p{
+    line-height: 36px;
+    color: rgb(161, 161, 161);
+    font-weight: 500;
+}
+.testimonial h6{
+    color: rgb(0, 217, 255);
+}
+.footer h5, h6{
+    font-weight: 500;
+    color: white;
+    
+    
+
+}
+.footer{
+    background-color: #1f2531;
+}
+.footer li{
+    color: rgb(157, 156, 156);
+    line-height: 40px;
+    font-weight: 500;
+    list-style: none;
+   text-align: left;
+}

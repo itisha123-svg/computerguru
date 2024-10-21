@@ -1,0 +1,22 @@
+/* .banners1{
+    background-image: url('../asset/Banner4.jpg');
+    background-position: center;
+    background-size: cover;
+    
+} */
+.inputs-type input{
+ height:  50px;
+ background-color: rgb(230, 242, 244);
+}
+.inputs-type textarea{
+    height:  70px;
+    background-color: rgb(230, 242, 244);
+   }
+.about-page {
+    position: absolute;
+   
+    
+}
+.banners1{
+    position: relative;
+}

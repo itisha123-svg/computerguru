@@ -1,0 +1,12 @@
+.nav-link{
+    font-weight: 500;
+    color: rgb(8, 148, 230);
+}
+.navbar-toggler{
+    background-color: rgb(236, 236, 236);
+    
+}
+.navbar-toggler-icon i{
+    color: rgb(27, 27, 27);
+    font-size: 27px;
+}

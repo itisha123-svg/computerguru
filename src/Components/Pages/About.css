@@ -1,0 +1,38 @@
+/* .banner{
+    /* background-image: url('../asset/About.jpg'); */
+    
+    /* background-position: center;
+    background-size: cover;
+}  */
+.banner{
+    position: relative;
+    opacity: 0.8;
+    
+    
+   
+
+}
+
+
+    .about-page p{
+       font-size: 5.0vw;
+       font-weight: 600;
+       color: white;
+      
+       
+    }
+
+.about-page{
+    position: absolute ;
+    top: 60px; 
+    left: 26px;
+    
+
+}
+.contentss h1, h5{
+    color: white;
+    font-weight: bold;
+}
+.contentss h1{
+    font-size: 60px;
+}

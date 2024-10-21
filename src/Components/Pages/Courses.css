@@ -1,0 +1,13 @@
+/* .banners1{
+    background-image: url('../asset/Courses1.jpg');
+    height: 480px;
+    background-position: center;
+    background-size: cover; */
+     
+/* } */
+.about-page {
+    position: absolute;
+}
+.banners1{
+    position: relative;
+}
